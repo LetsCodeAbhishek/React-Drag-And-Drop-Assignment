@@ -1,5 +1,6 @@
 
 # Assignment
+![Screenshot 2025-02-06 091737](https://github.com/user-attachments/assets/5f0756c2-3a0c-475d-ac89-9c6362f87d9e)
 
 
 # React + Vite
